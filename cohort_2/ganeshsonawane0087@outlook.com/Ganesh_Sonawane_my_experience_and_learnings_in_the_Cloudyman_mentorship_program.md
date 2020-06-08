@@ -73,4 +73,18 @@
 ## Difference between capex and opex
    An operating expense (OPEX) is an expense required for the day-to-day functioning of a business. In contrast, a capital expense (CAPEX) is an expense a business incurs to create a benefit in the future CapEx is the standard model of traditional IT procurement, while OpEx is how cloud computing services are procured. The two have very different implications for cost, control and operational flexibility
    
+# cloud computing regions:
+ Regions allow to you locate your cloud resources close to your customers both internal or external The closer your customer are to the region where your cloud resources are located, the faster and better their experience will be there 
+ 
+## Google cloud regions:
+ Google cloud platform is available in 22 regions and 61 zones A region is a specific geographical location where users can deploy cloud resources each region is an independent geographical area that consists of zones 
+ 
+## Regions in AWS:
+ In AWS there are 16 regions The AWS global infrastructure is currently comprised of 16 AWS regions worldwide and 42 availability  zones AWS maintains multiple geographic regions including in North America, south America, Europe, China, Asia Pacific and the middle east 
+   
+# Availability zones in azure 
+ An availability zones is high availability offering that products your applinces and data from data centers failures Availability zones are unique  physics location within an azure region  Each zone is made up of one or more data centers equipped with with independent power, cooling and networking 
+ 
+# What is region pair?
+  A region pair consists of two regions within the same geography Azure serialized platform updates across regional pairs ensuring that only one region in each pair updates at a time. Each Azure region is paired with another region within same geography, together making a regional pair
 
